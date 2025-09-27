@@ -1,0 +1,2 @@
+instalar node
+npx create-react-app. -->para crear el proyecto en la carpeta deseada
